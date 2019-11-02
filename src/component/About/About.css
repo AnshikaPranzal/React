@@ -1,0 +1,32 @@
+
+.abt{
+    width: 100%;
+    background: linear-gradient(90deg, white 35%, red 0%);
+    display: flex;
+    margin-left: 10%;
+    margin-top: -2%;
+}
+.nem{
+    background: brown;
+}
+.abt h1{
+    margin-top: 15%;
+    color:black;
+    font-size: 5vw;
+    font-family:'Lato', sans-serif;
+    
+}
+.abt span{
+    color: red;
+}
+.abt p
+{
+    font-family: 'Srisakdi', cursive;
+    width: 50%;
+    margin-right: 10%;
+    margin-left: auto;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    font-size: 2vw;
+    
+}

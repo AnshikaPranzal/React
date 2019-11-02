@@ -1,0 +1,53 @@
+.lang{
+    border-top: red 1px solid;
+    border-bottom: red 1px solid;
+    background: linear-gradient(90deg, red 20%, white 0%);
+    
+}
+.lang2
+{
+    display: inline-block;
+}
+.clm
+{
+    display: flex;
+    flex-direction: row;
+    
+    
+}
+.lang h1{
+    font-size: 4vw;
+    text-align: center;
+}
+.lang span{
+    color:red;
+    
+}
+
+.card1
+{
+    border: 0px black solid;
+    
+    height: 10vw;
+    width: 10vw;
+    
+    margin-left: 22vw;
+    margin-bottom: 2vw;
+    font-size: 1vw;
+    
+}
+.card
+{
+    border: 0px black solid;
+    
+    height: 10vw;
+    width: 10vw;
+    margin-left: 4vw;
+    margin-bottom: 2vw;
+    font-size: 1vw;
+    background: transparent;
+}
+.spacer
+{
+    flex: 1;
+}

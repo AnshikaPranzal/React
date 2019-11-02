@@ -1,0 +1,26 @@
+.side{
+    position: fixed;
+    height: 100%;
+    top: 0;
+    left: 0;
+    width: 70%;
+    max-width: 400px;
+    background: white;
+    box-shadow: 2px 0px 5px rgba(0,0,0,0.5);
+    z-index: 200;
+}
+.side ul {
+    list-style: none;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.side li {
+    margin: 0.5rem 0;
+}
+.side a {
+    text-decoration: none;
+    color: black;
+    font-size: 1.2rem;
+}
