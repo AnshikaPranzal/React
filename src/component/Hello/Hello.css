@@ -1,7 +1,7 @@
 
 .hl{
     width: 100%;
-    background: linear-gradient(90deg, red 55%, white 0%);
+    background: linear-gradient(90deg, #FF5A5A 55%, white 0%);
     display: flex;
     justify-content: center;
     transition: width 2s;
@@ -19,6 +19,7 @@
     transition-delay: 7s;
 }
 .hl span{
-    color: red;
+    color:#FF5A5A;
     transition-delay: 2s;
 }
+ 
