@@ -1,0 +1,80 @@
+.hj
+{
+    top: 0;
+    height: 75%;
+    margin-top: 5%;
+    margin-bottom: 3%;
+    margin-right: 10%;
+    margin-left: 10%;
+    display: flex;
+    
+    background: transparent;
+    box-shadow: 3px 10px 15px 5px rgba(0,0,0,0.45);
+    
+    flex-direction: column;
+   
+}
+.bdy {
+    padding-top: 1%;
+    height: 90vh;
+    background: linear-gradient(90deg, white 65%, #FF5A5A 0%);
+}
+
+
+.jk{
+    margin-top: 0%;
+    border: none;
+    display: flex;
+    flex-direction: row;
+    width: 30rem;
+    margin-left: 6%;
+}
+
+h3{
+    margin-left: 14vh;
+    margin-top: 10%;
+    font-size: 2rem;
+    font-family: 'Yeon Sung', cursive;
+}
+input{
+    
+    margin-left: 10vh;
+    height: 2rem;
+    border: 1px  rgba(182, 175, 175, 0.45) solid;
+    
+    
+    color: rgba(182, 175, 175, 0.45);
+    width: 80vw;
+    
+    
+}
+.o{
+    border-top-left-radius: 2rem;
+    border-bottom-left-radius: 2rem;
+}
+.io{
+    background: #FF5A5A;
+    
+    height: 2.2rem;
+    color: black;
+    font-size: 1.5vw;
+    width: 30vw;
+    margin-left: 0vh;
+    margin-right: auto;
+    border-top-right-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+    
+}
+
+input:active{
+    color: black;
+}
+.hj p{
+    width: 50%;
+    font-size: 0.9rem;
+    text-align:center;
+    margin-left: 10%;
+    color: rgba(0,0,0,0.45);
+    padding-bottom: 3%;
+    margin-top: -2%;
+}
