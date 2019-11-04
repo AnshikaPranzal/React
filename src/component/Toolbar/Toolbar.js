@@ -22,4 +22,4 @@ const toolbar = p => {
     );
     }   
     
-    export default toolbar;
+    export default toolbar; 
