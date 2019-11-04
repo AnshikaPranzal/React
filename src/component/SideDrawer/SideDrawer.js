@@ -14,4 +14,4 @@ const sidebar = props => (
    </div>
 );
 
-export default sidebar;
+export default sidebar; 
