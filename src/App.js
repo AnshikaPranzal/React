@@ -4,7 +4,7 @@ import Sidebar from './component/SideDrawer/SideDrawer';
 import Hello from './component/Hello/Hello';
 import About from './component/About/About';
 import Lan from './component/Language/Language';
-import Reg from './component/Register/Register'
+import Reg from './component/Caraosel/Register'
 
 import t from './App.css';
 function App() {
