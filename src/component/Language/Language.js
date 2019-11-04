@@ -32,4 +32,4 @@ const LA = t => (
    </div>
 );
 
-export default LA;
+export default LA; 
