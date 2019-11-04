@@ -1,7 +1,7 @@
 
 .abt{
     width: 100%;
-    background: linear-gradient(90deg, white 35%, red 0%);
+    background: linear-gradient(90deg, white 35%, #FF5A5A 0%);
     display: flex;
     margin-left: 10%;
     margin-top: -2%;
@@ -17,7 +17,7 @@
     
 }
 .abt span{
-    color: red;
+    color: #FF5A5A;
 }
 .abt p
 {
