@@ -1,8 +1,11 @@
 .lang{
-    border-top: red 1px solid;
-    border-bottom: red 1px solid;
-    background: linear-gradient(90deg, red 20%, white 0%);
-    
+    border-top: #FF5A5A 1px solid;
+    border-bottom: #FF5A5A 1px solid;
+    background: linear-gradient(90deg,#FF5A5A 20%, white 0%);
+    margin-top: -1vh;
+}
+.lang img{
+    width: 10vw;
 }
 .lang2
 {
@@ -20,7 +23,7 @@
     text-align: center;
 }
 .lang span{
-    color:red;
+    color:#FF5A5A;
     
 }
 
