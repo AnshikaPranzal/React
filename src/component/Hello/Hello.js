@@ -8,10 +8,9 @@ import h from './Hello.css';
     
     clss.push(h.nem)
   }
-  const some=() => console.log('gh');
 const hl = lo => (
    
-   <div className={clss.join('')} onScroll={disa} ><p>HE<br></br>LLO<span>.</span></p>
+   <div className={clss.join('')} onScroll={disa} ><p>Hey!<br></br>there<span>.</span></p>
    
    </div>
      
